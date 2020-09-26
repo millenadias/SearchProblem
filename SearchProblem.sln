@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacuumCleanerWorld", "VacuumCleanerWorld\VacuumCleanerWorld.csproj", "{87DD12F1-9D24-49D8-A7C0-63BF0B8EEA02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{4DEBED13-49A7-4748-BB31-A37471D9A814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87DD12F1-9D24-49D8-A7C0-63BF0B8EEA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DD12F1-9D24-49D8-A7C0-63BF0B8EEA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DD12F1-9D24-49D8-A7C0-63BF0B8EEA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DD12F1-9D24-49D8-A7C0-63BF0B8EEA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEBED13-49A7-4748-BB31-A37471D9A814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEBED13-49A7-4748-BB31-A37471D9A814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEBED13-49A7-4748-BB31-A37471D9A814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEBED13-49A7-4748-BB31-A37471D9A814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E9F6AD-E90C-4AA7-A0AB-0D78A74A7AF8}
+	EndGlobalSection
+EndGlobal
