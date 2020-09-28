@@ -10,5 +10,6 @@ namespace Search.Interfaces
         public List<string> getAction();
         public ActionStateInterface doAction(string pAction);
         public string ToString();
+        public bool Equals(object? obj);
     }
 }
