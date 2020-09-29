@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacuumCleanerWorld", "VacuumCleanerWorld\VacuumCleanerWorld.csproj", "{87DD12F1-9D24-49D8-A7C0-63BF0B8EEA02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VacuumCleanerWorld", "VacuumCleanerWorld\VacuumCleanerWorld.csproj", "{87DD12F1-9D24-49D8-A7C0-63BF0B8EEA02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{4DEBED13-49A7-4748-BB31-A37471D9A814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search", "Search\Search.csproj", "{4DEBED13-49A7-4748-BB31-A37471D9A814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenCrossingPuzzle", "ChickenCrossingPuzzle\ChickenCrossingPuzzle.csproj", "{BA1FCC31-79B9-4BDE-8D22-7EC91A256108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterJars", "WaterJars\WaterJars.csproj", "{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{4DEBED13-49A7-4748-BB31-A37471D9A814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DEBED13-49A7-4748-BB31-A37471D9A814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DEBED13-49A7-4748-BB31-A37471D9A814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1FCC31-79B9-4BDE-8D22-7EC91A256108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1FCC31-79B9-4BDE-8D22-7EC91A256108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1FCC31-79B9-4BDE-8D22-7EC91A256108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1FCC31-79B9-4BDE-8D22-7EC91A256108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
