@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VacuumCleanerWorld", "Vacuu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search", "Search\Search.csproj", "{4DEBED13-49A7-4748-BB31-A37471D9A814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenCrossingPuzzle", "ChickenCrossingPuzzle\ChickenCrossingPuzzle.csproj", "{BA1FCC31-79B9-4BDE-8D22-7EC91A256108}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChickenCrossingPuzzle", "ChickenCrossingPuzzle\ChickenCrossingPuzzle.csproj", "{BA1FCC31-79B9-4BDE-8D22-7EC91A256108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterJars", "WaterJars\WaterJars.csproj", "{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterJars", "WaterJars\WaterJars.csproj", "{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SizeNPuzzle", "SizeNPuzzle\SizeNPuzzle.csproj", "{C2856CA2-2CDB-44CC-8036-462767EFC3E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F030ACD-8CCB-4DDA-8049-BEEF11703F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2856CA2-2CDB-44CC-8036-462767EFC3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2856CA2-2CDB-44CC-8036-462767EFC3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2856CA2-2CDB-44CC-8036-462767EFC3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2856CA2-2CDB-44CC-8036-462767EFC3E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
